@@ -1,0 +1,4 @@
+{
+    "lottie-preview.lottie_preview": "Lottie Preview",
+    "lottie-preview.is_resident_memory": "Do you want to keep the current interface when switching to another interface? This function requires restarting the image preview view, which will have high memory overhead."
+}

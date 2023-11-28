@@ -3,7 +3,8 @@
 "lottie-preview" can preview lottie animation.
 
 ## Usage
-![alt usage](https://github.com/gjwlfeng/lottie-preview/blob/master/doc/lottie_preview.png?raw=true)
+![alt usage](https://github.com/gjwlfeng/lottie_preview/blob/master/doc/lottie_preview.png?raw=true)
+            
 
 ## Extension Settings
 
